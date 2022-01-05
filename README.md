@@ -59,7 +59,6 @@ Dept. of Mathematical Sciences & Dept. of Industrial and System Engineering
 
 2. **Machine Learning Competition**   
 > **NeurIPS 2021 Competition**: Machine Learning for Combinatorial Optimization    
-
 > **UNIST-KAIST-POSTECH Datascience Contest 2021**: Shale-gas Production Estimation   
 
 ------------
