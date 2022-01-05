@@ -106,7 +106,7 @@ Student Participant (September 2017)
 **CSIA Exchange Program** (Camborne, UK)    
 Camborne Science & International Academy (July 2017)   
 
-**Summer 2016 Pre-College Program** (Massachusetts, US)
+**Summer 2016 Pre-College Program** (Massachusetts, US)   
 University of Massachusetts Amherst (July 2016)   
 
 ------------
