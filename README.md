@@ -6,7 +6,7 @@ Phone: (+82)10-4470-9946
 Github: github.com/jadehaus   
 
 ## EDUCATION
-**Bachelor of Science** $\hfill$ Expected Graduation: June 2022   
+**Bachelor of Science** [Expected Graduation: June 2022]{style="float:right"}   
 \noindent Korea Advanced Institute of Science and Technology \\
 \noindent Dept. of Mathematical Sciences \& Dept. of Industrial and System Engineering
 
