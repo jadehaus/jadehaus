@@ -51,8 +51,7 @@ Dept. of Mathematical Sciences & Dept. of Industrial and System Engineering
 1. **Web App Development Experience**
 > **Undergraduate Course Explorer for KAIST** (2021 Summer - Current)
 > [graduate-kaist.herokuapp.com][graduate-kaist.herokuapp.com]    
-
-> Collaborators
+> Collaborators:
 > + Tak Yeon Lee, PhD   
 >   Assistant Professor, Industrial Design department, KAIST
 > + Seok Hyung Bae, PhD   
