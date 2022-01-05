@@ -26,8 +26,8 @@ Dept. of Mathematical Sciences & Dept. of Industrial and System Engineering
 
 ### RESEARCH EXPERIENCES
 
-> Korea Science Academy of KAIST (Busan, Republic of Korea)
-> Faculty Supervisor: Kwang Il Kang
+> Korea Science Academy of KAIST (Busan, Republic of Korea)   
+> Faculty Supervisor: Kwang Il Kang   
 > + American Society of Cell Biology(ASCB) 2015 Poster Presentation
 > 	+ _Connection with HMGB1 of multicellular tumor spheroid formation in dysregulated metabolism condition._
 > + International Cooperation Research Program 2017, NUS
@@ -37,8 +37,8 @@ Dept. of Mathematical Sciences & Dept. of Industrial and System Engineering
 > + Korea Science Academy of KAIST Graduation Research
 > 	+ _Endoplasmic reticulum stress resistance in 3D spheroid culture and classical 2D culture of human breast cancer cell MCF7._
 
-> Korea Advanced Institute of Science and Technology (Daejeon, Republic of Korea)
-> Faculty Supervisor: Se-Young Yoon
+> Korea Advanced Institute of Science and Technology (Daejeon, Republic of Korea)   
+> Faculty Supervisor: Se-Young Yoon   
 > + Individual Research
 > 	+ _Byzantine Resilient Federated Learning via Principle Component Analysis._
 > 	+ _Study on the Convergence Analysis of Federated Averaging._
