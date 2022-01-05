@@ -5,14 +5,8 @@ Email: minu.kim@kaist.ac.kr
 Phone: (+82)10-4470-9946   
 Github: github.com/jadehaus   
 
-\begin{center}
-	{\noindent \bfseries EDUCATION}
-\end{center}
-
-\vspace{8pt} % Gap between title and text
-
-\noindent
-{\sl \bfseries Bachelor of Science} \hfill Expected Graduation: June 2022 \\ 
+## EDUCATION
+**Bachelor of Science** $\hfill$ Expected Graduation: June 2022   
 \noindent Korea Advanced Institute of Science and Technology \\
 \noindent Dept. of Mathematical Sciences \& Dept. of Industrial and System Engineering
 
