@@ -5,12 +5,15 @@ Email: minu.kim@kaist.ac.kr
 Phone: (+82)10-4470-9946   
 Github: github.com/jadehaus   
 
+------------
+
 ### EDUCATION
 **Bachelor of Science**    
 (Expected Graduation: June 2022)    
 Korea Advanced Institute of Science and Technology   
 Dept. of Mathematical Sciences & Dept. of Industrial and System Engineering   
 
+------------
  
 ### RESEARCH INTEREST   
 
@@ -18,6 +21,8 @@ Dept. of Mathematical Sciences & Dept. of Industrial and System Engineering
 + Reinforcement Learning Thoery   
 + Adversarial Robustness in Machine Learning   
 + Federated Learning   
+
+------------
 
 ### RESEARCH EXPERIENCES
 
@@ -40,6 +45,8 @@ Dept. of Mathematical Sciences & Dept. of Industrial and System Engineering
 > + Undergraduate Research Program
 > 	+ _Designing a branching score for branch-and-bound algorithms for general combinatorial optimization problems by Inverse Reinforcement Learning (In Progress)_
 
+------------
+
 ### PROGRAMMING EXPERIENCES
 1. **Web App Development Experience**
 > **Undergraduate Course Explorer for KAIST** (2021 Summer - Current)
@@ -55,6 +62,8 @@ Dept. of Mathematical Sciences & Dept. of Industrial and System Engineering
 > **NeurIPS 2021 Competition**: Machine Learning for Combinatorial Optimization   
 > **UNIST-KAIST-POSTECH Datascience Contest 2021**: Shale-gas Production Estimation   
 
+------------
+
 ### HONORS & AWARDS
 > **NeurIPS 2021 Competition** - Machine Learning for Combinatorial Optimization      
 > Overall 4th place (dual task), 2nd in student leaderboard (dual task)   
@@ -63,7 +72,7 @@ Dept. of Mathematical Sciences & Dept. of Industrial and System Engineering
 
 > **Zayed Future Energy Prize 2016**($100,000 USD) Global High School Winner
 
-
+------------
 
 ### SCHOLARSHIPS & MEMBERSHIPS   
 > **Alumni Academic Scholarship**, March 2019 - December 2021 ($10,000 USD)   
@@ -74,11 +83,14 @@ Dept. of Mathematical Sciences & Dept. of Industrial and System Engineering
 > + President of Student Council, 2020
 > + Chairman of Emergency Committee of Student Council, Winter 2020
 
+------------
+
 ### PATENTS
 
 + **MULTI SPRAY CONTAINER** (Patent Registration Number 10-1383105-0000)   
 + **GUIDE SYSTEM FOR BLIND PEOPLE** (Patent Registration Number 10-1677485-0000)   
 
+------------
 
 ### INTERNATIONAL PROGRAM EXPERIENCES
 **KIA Eco-Dynamics Expedition 2015** (Pokhara, Nepal)
@@ -96,6 +108,8 @@ Camborne Science & International Academy (July 2017)
 
 **Summer 2016 Pre-College Program** (Massachusetts, US)
 University of Massachusetts Amherst (July 2016)   
+
+------------
 
 ### MENTORING EXPERIENCE
 **KAIST Major Course Student Tutor** (2019 Fall)    
