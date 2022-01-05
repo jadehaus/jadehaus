@@ -49,7 +49,7 @@ Dept. of Mathematical Sciences & Dept. of Industrial and System Engineering
 
 ### PROGRAMMING EXPERIENCES
 1. **Web App Development Experience**
-> **Undergraduate Course Explorer for KAIST** (2021 Summer - Current)
+> **Undergraduate Course Explorer for KAIST** (2021 Summer - Current)   
 > [graduate-kaist.herokuapp.com](graduate-kaist.herokuapp.com)    
 > Collaborators:
 > + Tak Yeon Lee, PhD   
@@ -68,9 +68,9 @@ Dept. of Mathematical Sciences & Dept. of Industrial and System Engineering
 > **NeurIPS 2021 Competition** - Machine Learning for Combinatorial Optimization      
 > Overall 4th place (dual task), 2nd in student leaderboard (dual task)   
 
-> **Talent Award of Korea**(대한민국 인재상) 2016
+> **Talent Award of Korea**(대한민국 인재상) 2016   
 
-> **Zayed Future Energy Prize 2016**($100,000 USD) Global High School Winner
+> **Zayed Future Energy Prize 2016**($100,000 USD) Global High School Winner   
 
 ------------
 
@@ -93,8 +93,8 @@ Dept. of Mathematical Sciences & Dept. of Industrial and System Engineering
 ------------
 
 ### INTERNATIONAL PROGRAM EXPERIENCES
-**KIA Eco-Dynamics Expedition 2015** (Pokhara, Nepal)
-Student Participant (January 2015)
+**KIA Eco-Dynamics Expedition 2015** (Pokhara, Nepal)   
+Student Participant (January 2015)   
 + Educated and trained to conduct international development design projects for appropriate technology with local community members.
 + Sponsored by KIA Motors UNEP National Committee for the Republic of Korea and Massachusetts Institute of Technology (MIT D-Lab) of the United States.
 
