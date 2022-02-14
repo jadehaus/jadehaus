@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 logo: /assets/img/profile.jpeg   
 title: Minu Kim
 description: Curriculum Vitae
+show_downloads: true
+google_analytics:  
