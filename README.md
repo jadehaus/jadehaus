@@ -1,4 +1,7 @@
 ## Minu Kim
+Undergraduate student at Dept. of Mathematical Sciences & Dept. of Industrial and System Engineering.   
+Research Intern at Fundamental Research Lab, LG AI Research (2022.08. ~ current)    
+
 
 ### Contact Information
 Email: minu.kim@kaist.ac.kr   
@@ -11,8 +14,7 @@ Github: github.com/jadehaus
 **Bachelor of Science**    
 (Expected Graduation: Feb 2023)    
 Korea Advanced Institute of Science and Technology   
-Dept. of Mathematical Sciences & Dept. of Industrial and System Engineering   
-Research Intern at Fundamental Research Lab, LG AI Research (2022.08. ~ current)   
+Dept. of Mathematical Sciences & Dept. of Industrial and System Engineering      
 
 ------------
  
