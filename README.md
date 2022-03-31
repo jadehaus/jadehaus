@@ -9,9 +9,10 @@ Github: github.com/jadehaus
 
 ### EDUCATION
 **Bachelor of Science**    
-(Expected Graduation: June 2022)    
+(Expected Graduation: Feb 2023)    
 Korea Advanced Institute of Science and Technology   
 Dept. of Mathematical Sciences & Dept. of Industrial and System Engineering   
+Research Intern at Fundamental Research Lab, LG AI Research (2022.08. ~ current)   
 
 ------------
  
