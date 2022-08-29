@@ -22,6 +22,7 @@ Dept. of Mathematical Sciences & Dept. of Industrial and System Engineering
 
 + Machine Learning & Deep Learning Theory   
 + Reinforcement Learning Thoery   
++ Neural Combinatorial Optimization   
 + Adversarial Robustness in Machine Learning   
 + Federated Learning   
 
