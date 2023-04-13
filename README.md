@@ -1,6 +1,5 @@
 ## Minu Kim
-Undergraduate student at Dept. of Mathematical Sciences & Dept. of Industrial and System Engineering.   
-Research Intern at Fundamental Research Lab, LG AI Research (2022.08. ~ current)    
+Master Candidate at OSI Lab, KAIST AI
 
 
 ### Contact Information
@@ -12,9 +11,9 @@ Github: github.com/jadehaus
 
 ### EDUCATION
 **Bachelor of Science**    
-(Expected Graduation: Feb 2023)    
+(2018.03. ~ 2023.02.)    
 Korea Advanced Institute of Science and Technology   
-Dept. of Mathematical Sciences & Dept. of Industrial and System Engineering      
+Dept. of Mathematical Sciences  
 
 ------------
  
@@ -29,6 +28,7 @@ Dept. of Mathematical Sciences & Dept. of Industrial and System Engineering
 ------------
 
 ### RESEARCH EXPERIENCES
+Research Intern at Fundamental Research Lab, LG AI Research (2022.03. ~ 2022.08)    
 
 > Korea Science Academy of KAIST (Busan, Republic of Korea)   
 > Faculty Supervisor: Kwang Il Kang   
