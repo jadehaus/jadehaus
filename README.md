@@ -30,7 +30,7 @@ Dept. of Mathematical Sciences
 ### RESEARCH EXPERIENCES
 Research Intern at Fundamental Research Lab, LG AI Research (2022.03. ~ 2022.08)    
 
-> Korea Science Academy of KAIST (Busan, Republic of Korea)   
+<!-- > Korea Science Academy of KAIST (Busan, Republic of Korea)   
 > Faculty Supervisor: Kwang Il Kang   
 > + American Society of Cell Biology(ASCB) 2015 Poster Presentation
 > 	+ _Connection with HMGB1 of multicellular tumor spheroid formation in dysregulated metabolism condition._
@@ -47,7 +47,7 @@ Research Intern at Fundamental Research Lab, LG AI Research (2022.03. ~ 2022.08)
 > 	+ _Byzantine Resilient Federated Learning via Principle Component Analysis._
 > 	+ _Study on the Convergence Analysis of Federated Averaging._
 > + Undergraduate Research Program
-> 	+ _Designing a branching score for branch-and-bound algorithms for general combinatorial optimization problems by Inverse Reinforcement Learning (In Progress)_
+> 	+ _Designing a branching score for branch-and-bound algorithms for general combinatorial optimization problems by Inverse Reinforcement Learning (In Progress)_ -->
 
 ------------
 
