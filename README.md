@@ -120,3 +120,7 @@ Engineering Statistics II (IE341)
 
 **KAIST Basic Elective Course Student Lecturer** (2020 Spring, 2021 Spring)   
 Introduction to Linear Algebra (MAS109)
+
+-------------
+RL Lecture:
+https://drive.google.com/drive/folders/1v3MJeNfn1lvlo_WtB7Fy9yR3e0sFFOoi?usp=drive_link
