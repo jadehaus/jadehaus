@@ -1,5 +1,5 @@
 ## Minu Kim
-Master Candidate at OSI Lab, KAIST AI
+Ph.D Candidate at OSI Lab, KAIST AI
 
 
 ### Contact Information
@@ -19,11 +19,10 @@ Dept. of Mathematical Sciences
  
 ### RESEARCH INTEREST   
 
-+ Machine Learning & Deep Learning Theory   
-+ Reinforcement Learning Thoery   
++ Controlability & Interpretability of AI
++ Preference Alignment & Personalization
++ Reinforcement Learning & LLM Agent
 + Neural Combinatorial Optimization   
-+ Adversarial Robustness in Machine Learning   
-+ Federated Learning   
 
 ------------
 
