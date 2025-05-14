@@ -3,9 +3,9 @@ Ph.D Candidate at OSI Lab, KAIST AI
 
 
 ### Contact Information
-Email: minu.kim@kaist.ac.kr   
+Email: [minu.kim@kaist.ac.kr](minu.kim@kaist.ac.kr)
 Phone: (+82)10-4470-9946   
-Github: github.com/jadehaus   
+Github: [github.com/jadehaus](github.com/jadehaus)
 Scholar: [Link to Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=ko&hl=ko&user=w92yIbUAAAAJ)
 
 ------------
@@ -30,19 +30,19 @@ Dept. of Mathematical Sciences
 ### PAPERS
 
 + Preference Alignment with Flow Matching
-  > NeurIPS 2024    
+  > _NeurIPS 2024_    
   > **Minu Kim**, Yongsik Lee, Sehyeok Kang, Jihwan Oh, Song Chong, Se-Young Yun
 + DPM: Dual Preferences-based Multi-Agent Reinforcement Learning
-  > (arXiv preprint)    
+  > _(arXiv preprint)_    
   > Sehyeok Kang, Yongsik Lee, **Minu Kim**, Jihwan Oh, Song Chong, Se-Young Yun
 + Guiding Reasoning in Small Language Models with LLM Assistance
-  > (arXiv preprint)    
+  > _(arXiv preprint)_    
   > Yujin Kim, Euiin Yi, **Minu Kim**, Se-Young Yun, Taehyeon Kim
 + Hierarchical Decomposition Framework for Feasibility-hard Combinatorial Optimization
-  > ICML 2023 Workshop: Sampling and Optimization in Discrete Space    
+  > _ICML 2023 Workshop: Sampling and Optimization in Discrete Space_    
   > Hanbum Ko, **Minu Kim**, Han-Seul Jeong, Sunghoon Hong, Deunsol Yoon, Youngjoon Park, Woohyung Lim, Honglak Lee, Moontae Lee, Kanghoon Lee, Sungbin Lim, Sungryull Sohn
 + ReSPack: A Large-Scale Rectilinear Steiner Tree Packing Data Generator and Benchmark
-  > NeurIPS 2022 Workshop on Synthetic Data for Empowering ML Research    
+  > _NeurIPS 2022 Workshop on Synthetic Data for Empowering ML Research_    
   > Kanghoon Lee, Youngjoon Park, Han-Seul Jeong, Sunghoon Hong, Deunsol Yoon, Sungryull Sohn, **Minu Kim**, Hanbum Ko, Moontae Lee, Honglak Lee, Kyunghoon Kim, Euihyuk Kim, Seonggeon Cho, Jaesang Min, Woohyung Lim
 
 ------------
