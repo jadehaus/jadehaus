@@ -6,6 +6,7 @@ Ph.D Candidate at OSI Lab, KAIST AI
 Email: minu.kim@kaist.ac.kr   
 Phone: (+82)10-4470-9946   
 Github: github.com/jadehaus   
+Scholar: [Link to Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=ko&hl=ko&user=w92yIbUAAAAJ)
 
 ------------
 
