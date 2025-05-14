@@ -88,9 +88,9 @@ Research Intern at Fundamental Research Lab, LG AI Research (2022.03. ~ 2022.08)
 ------------
 
 ### HONORS & AWARDS
-> **ICORES 2025 Best Student Paper Award**
-> Hierarchical Decomposition Framework for Steiner Tree Packing Problem
-> Hanbum Ko, Minu Kim, Han-Seul Jeong, Sunghoon Hong, Deunsol Yoon, Youngjoon Park, Woohyung Lim, Honglak Lee, Moontae Lee, Kanghoon Lee, Sungbin Lim, Sungryull Sohn
+> **ICORES 2025 Best Student Paper Award**     
+> Hierarchical Decomposition Framework for Steiner Tree Packing Problem     
+> Hanbum Ko, **Minu Kim**, Han-Seul Jeong, Sunghoon Hong, Deunsol Yoon, Youngjoon Park, Woohyung Lim, Honglak Lee, Moontae Lee, Kanghoon Lee, Sungbin Lim, Sungryull Sohn
 
 > **NeurIPS 2021 Competition** - Machine Learning for Combinatorial Optimization      
 > Overall 4th place (dual task), 2nd in student leaderboard (dual task)   
