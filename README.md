@@ -30,20 +30,20 @@ Dept. of Mathematical Sciences
 ### PAPERS
 
 + Preference Alignment with Flow Matching
-  > _NeurIPS 2024_    
   > **Minu Kim**, Yongsik Lee, Sehyeok Kang, Jihwan Oh, Song Chong, Se-Young Yun
-+ DPM: Dual Preferences-based Multi-Agent Reinforcement Learning
-  > _(arXiv preprint)_    
+  > _NeurIPS 2024_    
++ DPM: Dual Preferences-based Multi-Agent Reinforcement Learning    
   > Sehyeok Kang, Yongsik Lee, **Minu Kim**, Jihwan Oh, Song Chong, Se-Young Yun
-+ Guiding Reasoning in Small Language Models with LLM Assistance
-  > _(arXiv preprint)_    
+  > _(arXiv preprint)_
++ Guiding Reasoning in Small Language Models with LLM Assistance    
   > Yujin Kim, Euiin Yi, **Minu Kim**, Se-Young Yun, Taehyeon Kim
-+ Hierarchical Decomposition Framework for Feasibility-hard Combinatorial Optimization
-  > _ICML 2023 Workshop: Sampling and Optimization in Discrete Space_    
+  > _(arXiv preprint)_
++ Hierarchical Decomposition Framework for Feasibility-hard Combinatorial Optimization    
   > Hanbum Ko, **Minu Kim**, Han-Seul Jeong, Sunghoon Hong, Deunsol Yoon, Youngjoon Park, Woohyung Lim, Honglak Lee, Moontae Lee, Kanghoon Lee, Sungbin Lim, Sungryull Sohn
-+ ReSPack: A Large-Scale Rectilinear Steiner Tree Packing Data Generator and Benchmark
-  > _NeurIPS 2022 Workshop on Synthetic Data for Empowering ML Research_    
+  > _ICML 2023 Workshop: Sampling and Optimization in Discrete Space_
++ ReSPack: A Large-Scale Rectilinear Steiner Tree Packing Data Generator and Benchmark    
   > Kanghoon Lee, Youngjoon Park, Han-Seul Jeong, Sunghoon Hong, Deunsol Yoon, Sungryull Sohn, **Minu Kim**, Hanbum Ko, Moontae Lee, Honglak Lee, Kyunghoon Kim, Euihyuk Kim, Seonggeon Cho, Jaesang Min, Woohyung Lim
+  > _NeurIPS 2022 Workshop on Synthetic Data for Empowering ML Research_
 
 ------------
 
