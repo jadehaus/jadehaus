@@ -112,6 +112,18 @@ Research Intern at Fundamental Research Lab, LG AI Research (2022.03. ~ 2022.08)
 
 ------------
 
+### TEACHING & MENTORING EXPERIENCE    
+**Lecturer at Chungcheongbuk-do Education Research and Information Institute Gifted Education Center, Korea (Government Institute)** (2024 ~ Current)      
+Reinforcement Learning & Generative AI
+
+**KAIST Major Course Student Tutor** (2019 Fall)    
+Engineering Statistics II (IE341)
+
+**KAIST Basic Elective Course Student Lecturer** (2020 Spring, 2021 Spring)   
+Introduction to Linear Algebra (MAS109)    
+
+------------
+
 ### PATENTS
 
 + **MULTI SPRAY CONTAINER** (Patent Registration Number 10-1383105-0000)   
@@ -135,16 +147,3 @@ Camborne Science & International Academy (July 2017)
 
 **Summer 2016 Pre-College Program** (Massachusetts, US)   
 University of Massachusetts Amherst (July 2016)   
-
-------------
-
-### MENTORING EXPERIENCE
-**KAIST Major Course Student Tutor** (2019 Fall)    
-Engineering Statistics II (IE341)
-
-**KAIST Basic Elective Course Student Lecturer** (2020 Spring, 2021 Spring)   
-Introduction to Linear Algebra (MAS109)
-
--------------
-RL Lecture:
-https://drive.google.com/drive/folders/1v3MJeNfn1lvlo_WtB7Fy9yR3e0sFFOoi?usp=drive_link
