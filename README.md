@@ -32,7 +32,7 @@ Kim Jaechul Graduate School of AI
 
 ------------
  
-### PAPERS
+### SELECTED PAPERS
 
 + [Preference Alignment with Flow Matching](https://proceedings.neurips.cc/paper_files/paper/2024/hash/3df874367ce2c43891aab1ab23ae6959-Abstract-Conference.html)
   > **Minu Kim**, Yongsik Lee, Sehyeok Kang, Jihwan Oh, Song Chong, Se-Young Yun     
