@@ -16,6 +16,11 @@ Scholar: [Link to Google Scholar](https://scholar.google.com/citations?view_op=l
 Korea Advanced Institute of Science and Technology   
 Dept. of Mathematical Sciences  
 
+**MS/Ph.D Integrated**    
+(2023.03. ~ **Current**)    
+Korea Advanced Institute of Science and Technology   
+Kim Jaechul Graduate School of AI    
+
 ------------
  
 ### RESEARCH INTEREST   
