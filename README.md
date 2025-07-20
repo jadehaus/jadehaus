@@ -1,6 +1,9 @@
 ## Minu Kim
 Ph.D Candidate at OSI Lab, KAIST AI
 
+**Please visit my personal website for more updated info:   
+[https://sites.google.com/view/minukim](https://sites.google.com/view/minukim)**
+
 
 ### Contact Information
 Email: [minu.kim@kaist.ac.kr](minu.kim@kaist.ac.kr)     
@@ -21,6 +24,7 @@ Dept. of Mathematical Sciences
 Korea Advanced Institute of Science and Technology   
 Kim Jaechul Graduate School of AI    
 
+<!--
 ------------
  
 ### RESEARCH INTEREST   
@@ -54,25 +58,6 @@ Kim Jaechul Graduate School of AI
 
 ### RESEARCH EXPERIENCES
 Research Intern at Fundamental Research Lab, LG AI Research (2022.03. ~ 2022.08)    
-
-<!-- > Korea Science Academy of KAIST (Busan, Republic of Korea)   
-> Faculty Supervisor: Kwang Il Kang   
-> + American Society of Cell Biology(ASCB) 2015 Poster Presentation
-> 	+ _Connection with HMGB1 of multicellular tumor spheroid formation in dysregulated metabolism condition._
-> + International Cooperation Research Program 2017, NUS
-> 	+ _Effects of glucose oxidase induced ROS on cancer cell death._
-> + Korea Science Academy of KAIST R&E
-> 	+ _The effects of cellular characteristics and lipid on Dicholoracetate resistance in human breast cancer cells._
-> + Korea Science Academy of KAIST Graduation Research
-> 	+ _Endoplasmic reticulum stress resistance in 3D spheroid culture and classical 2D culture of human breast cancer cell MCF7._
-
-> Korea Advanced Institute of Science and Technology (Daejeon, Republic of Korea)   
-> Faculty Supervisor: Se-Young Yoon   
-> + Individual Research
-> 	+ _Byzantine Resilient Federated Learning via Principle Component Analysis._
-> 	+ _Study on the Convergence Analysis of Federated Averaging._
-> + Undergraduate Research Program
-> 	+ _Designing a branching score for branch-and-bound algorithms for general combinatorial optimization problems by Inverse Reinforcement Learning (In Progress)_ -->
 
 ------------
 
@@ -152,3 +137,23 @@ Camborne Science & International Academy (July 2017)
 
 **Summer 2016 Pre-College Program** (Massachusetts, US)   
 University of Massachusetts Amherst (July 2016)   
+
+-->
+<!-- > Korea Science Academy of KAIST (Busan, Republic of Korea)   
+> Faculty Supervisor: Kwang Il Kang   
+> + American Society of Cell Biology(ASCB) 2015 Poster Presentation
+> 	+ _Connection with HMGB1 of multicellular tumor spheroid formation in dysregulated metabolism condition._
+> + International Cooperation Research Program 2017, NUS
+> 	+ _Effects of glucose oxidase induced ROS on cancer cell death._
+> + Korea Science Academy of KAIST R&E
+> 	+ _The effects of cellular characteristics and lipid on Dicholoracetate resistance in human breast cancer cells._
+> + Korea Science Academy of KAIST Graduation Research
+> 	+ _Endoplasmic reticulum stress resistance in 3D spheroid culture and classical 2D culture of human breast cancer cell MCF7._
+
+> Korea Advanced Institute of Science and Technology (Daejeon, Republic of Korea)   
+> Faculty Supervisor: Se-Young Yoon   
+> + Individual Research
+> 	+ _Byzantine Resilient Federated Learning via Principle Component Analysis._
+> 	+ _Study on the Convergence Analysis of Federated Averaging._
+> + Undergraduate Research Program
+> 	+ _Designing a branching score for branch-and-bound algorithms for general combinatorial optimization problems by Inverse Reinforcement Learning (In Progress)_ -->
